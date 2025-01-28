@@ -6,5 +6,5 @@
 ![Image Alt](https://github.com/CynthiaBanjo/House-Price-Regression/blob/836b4edc9bcd5b86620ff68b7a0ab459ea90e087/Bedrooms%20Pivot%20Table.png)<br />
 ![Image Alt](https://github.com/CynthiaBanjo/House-Price-Regression/blob/1047fe0a5969d65c59590a1eae7f6530aefd04a0/Bedrooms%20average%20house%20price.png)<br />
 ![Image Alt](https://github.com/CynthiaBanjo/House-Price-Regression/blob/8c9c4e4f1bf4de1ef83bc3920381a679c1b2b358/Calculations%20Functions.png)<br />
-![Image Alt]()
+![Image Alt](https://github.com/CynthiaBanjo/House-Price-Regression/blob/8cb68763115f6d41558fbb90e6cf37bcec31c457/Forecast.png)<br />
 ![Image Alt]()
