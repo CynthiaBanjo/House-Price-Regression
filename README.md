@@ -10,6 +10,6 @@
 ![Image Alt](https://github.com/CynthiaBanjo/House-Price-Regression/blob/8cb68763115f6d41558fbb90e6cf37bcec31c457/Forecast.png)<br />
 ![Image Alt](https://github.com/CynthiaBanjo/House-Price-Regression/blob/a3ec5cfea81bcf3ca1f16161bd4389312ee55071/Lot%20size%20by%20Year%20Built.png)<br />
 ![Image Alt](https://github.com/CynthiaBanjo/House-Price-Regression/blob/cf5c204ff021e0c31ef3ca2f1cdcaedd85abf20c/Pivot%20Chart%20of%20Average%20house%20price%20by%20rooms.png)<br />
-![Image Alt]()<br />
+![Image Alt](https://github.com/CynthiaBanjo/House-Price-Regression/blob/7386a1cd9498501ecc54332a704c2c1885df6714/Pivot%20Chart.png)<br />
 ![Image Alt]()<br />
 ![Image Alt]()<br />
